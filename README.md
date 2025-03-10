@@ -7,5 +7,3 @@ I'm an IT graduate passionate about Python, AI, Data Analysis, Blockchain, and C
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Agha-Here&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
