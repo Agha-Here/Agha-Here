@@ -14,7 +14,7 @@ I'm always learning, experimenting with new technologies, and finding better way
 
 ## 🚀 Featured Projects
 
-- **[TimeCapsule Network](https://thetimecapsule.xyz)** — A Django-based platform for creating messages for the future or sharing them with the world.
+- **[TimeCapsule Network](https://timecapsule-r26e.onrender.com)** — A Django-based platform for creating messages for the future or sharing them with the world.
 - **BidWise** — An auction marketplace where users can list products, place bids, and explore seller profiles.
 - **WordPress Projects** — Building websites for businesses using WordPress, Elementor, and WooCommerce.
 
