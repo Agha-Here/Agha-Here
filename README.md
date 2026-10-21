@@ -1,9 +1,40 @@
-# 💫 About Me:
-I'm an IT graduate passionate about Python, AI, Data Analysis, Blockchain, and Cryptography. I enjoy solving problems, automating tasks, and diving into emerging technologies.<br><br>🚀 What I Do<br>🔹 Python Development – Writing clean and efficient code<br>🔹 AI & Machine Learning – Exploring models and algorithms<br>🔹 Data Analysis – Extracting insights from data<br>🔹 Blockchain & Cryptography – Understanding security, encryption, and decentralized tech<br>🔹 Web Basics – Working with HTML, CSS, and backend with Python<br><br>🌱 Currently Learning<br>🔹 Advanced AI & Machine Learning concepts<br>🔹 Blockchain fundamentals and smart contracts<br>🔹 Cryptography techniques and security best practices<br><br>💡 Goals<br>🔹 Become a Python developer specializing in AI & Blockchain<br>🔹 Contribute to open-source projects<br>🔹 Land an exciting role in tech<br><br>📫 Let's Connect<br>📩 Open to collaborations, discussions, and tech talks!
+# Hey, I'm Agha Abdul Rafay 👋
 
+I'm an IT graduate and developer who enjoys building useful things for the web. I work mainly with **Python, Django, WordPress, and databases**, and I love turning ideas into real projects.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_agha.rafay_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agha-rafay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.agharafay@gmail.com) 
+I'm always learning, experimenting with new technologies, and finding better ways to solve problems through code.
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Backend:** Django, REST APIs
+- **CMS & E-commerce:** WordPress, Elementor, WooCommerce
+- **Databases:** MySQL
+- **Tools & Platforms:** Git, GitHub, Cloudflare
+
+## 🚀 Featured Projects
+
+- **[TimeCapsule Network](https://thetimecapsule.xyz)** — A Django-based platform for creating messages for the future or sharing them with the world.
+- **BidWise** — An auction marketplace where users can list products, place bids, and explore seller profiles.
+- **WordPress Projects** — Building websites for businesses using WordPress, Elementor, and WooCommerce.
+
+🌐 **Explore more of my work:** [agharafay.xyz](https://agharafay.xyz)
+
+## 🌱 Currently Exploring
+
+- Backend development and building better APIs
+- AI, automation, and machine learning
+- Blockchain and cryptography
+- Writing cleaner, more efficient, and maintainable code
+
+## 🤝 Let's Connect
+
+- **Portfolio:** [agharafay.xyz](https://agharafay.xyz)
+- **LinkedIn:** [agha-rafay](https://linkedin.com/in/agha-rafay)
+- **GitHub:** [agha-here](https://github.com/agha-here)
+- **Instagram:** [_agha.rafay_](https://instagram.com/_agha.rafay_)
+- **Email:** [contact.agharafay@gmail.com](mailto:contact.agharafay@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Agha-Here&icon=0&color=12)](https://visitcount.itsvg.in)
+
+*Always building, always learning, always curious.* 🚀
